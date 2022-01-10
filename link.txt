@@ -1,0 +1,4 @@
+Teachable links:
+
+class 103:
+https://teachablemachine.withgoogle.com/models/TUC4AQQwO/
